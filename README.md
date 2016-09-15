@@ -1,5 +1,5 @@
 # Big data rocks ! (CI part)
-This repo is the CI part of code in https://github.com/etienne-chauchot/bigDataRocks
+This repo is the CI part of code in https://github.com/echauchot/bigDataRocks
 
 ## Content
 For now it contains scripts to create Cassandra and Elasticsearch docker containers, start and stop them and initialize Cassandra and Elasticsearch middlewares.
